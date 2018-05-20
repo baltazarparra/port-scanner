@@ -3,5 +3,5 @@ Port Scanner in Python for study
 # Usage
 Ex:
 ```
-\# python portscan.py bancocn.com
+# python portscan.py bancocn.com
 ``` 
